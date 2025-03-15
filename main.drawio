@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="6hr36A3oGd26tOo8IFAF" name="Page-1">
-        <mxGraphModel dx="832" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="170" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -111,7 +111,7 @@
                     <mxGeometry x="306" y="930" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="33" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(168, 168, 255));&quot;&gt;Find the Least Number Algorithm&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-                    <mxGeometry x="286" y="40" width="160" height="30" as="geometry"/>
+                    <mxGeometry x="282" y="40" width="160" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
